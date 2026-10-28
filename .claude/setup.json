@@ -1,0 +1,141 @@
+{
+  "sourceRepository": "https://github.com/vpetukhov-wbss/ai-engineering-setups",
+  "sourceCommit": "0c6bd0738916715774fdeadba19c9ff113bca1dd",
+  "sourcePreset": "angular",
+  "installedOn": "2026-10-28",
+  "profile": "frontend",
+  "sourceFiles": [
+    {
+      "path": ".claude/agents/angular-accessibility-auditor.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-accessibility-auditor.md"
+    },
+    {
+      "path": ".claude/agents/angular-qa-engineer.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-qa-engineer.md"
+    },
+    {
+      "path": ".claude/agents/angular-security-auditor.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-security-auditor.md"
+    },
+    {
+      "path": ".claude/agents/angular-solution-architect.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-solution-architect.md"
+    },
+    {
+      "path": ".claude/agents/angular-state-api-engineer.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-state-api-engineer.md"
+    },
+    {
+      "path": ".claude/agents/angular-ui-engineer.md",
+      "upstreamPath": "setups/angular/.claude/agents/angular-ui-engineer.md"
+    },
+    {
+      "path": ".claude/rules/angular-api-security.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-api-security.md"
+    },
+    {
+      "path": ".claude/rules/angular-components.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-components.md"
+    },
+    {
+      "path": ".claude/rules/angular-ssr-ci.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-ssr-ci.md"
+    },
+    {
+      "path": ".claude/rules/angular-state.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-state.md"
+    },
+    {
+      "path": ".claude/rules/angular-tests-quality.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-tests-quality.md"
+    },
+    {
+      "path": ".claude/rules/angular-typescript.md",
+      "upstreamPath": "setups/angular/.claude/rules/angular-typescript.md"
+    },
+    {
+      "path": ".claude/skills/angular-accessibility/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-accessibility/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-api-integration/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-api-integration/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-architecture/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-architecture/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-ci-deploy/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-ci-deploy/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-code-review/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-code-review/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-feature/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-feature/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-forms/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-forms/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-security-review/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-security-review/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-state-management/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-state-management/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-test-strategy/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-test-strategy/SKILL.md"
+    },
+    {
+      "path": ".claude/skills/angular-upgrade/SKILL.md",
+      "upstreamPath": "setups/angular/.claude/skills/angular-upgrade/SKILL.md"
+    },
+    {
+      "path": "knowledge/ANGULAR_ASPNET_INTEGRATION.md",
+      "upstreamPath": "setups/angular/knowledge/ANGULAR_ASPNET_INTEGRATION.md"
+    },
+    {
+      "path": "knowledge/ANGULAR_PLAYBOOK.md",
+      "upstreamPath": "setups/angular/knowledge/ANGULAR_PLAYBOOK.md"
+    },
+    {
+      "path": "knowledge/SOURCES.md",
+      "upstreamPath": "setups/angular/knowledge/SOURCES.md"
+    },
+    {
+      "path": "templates/ANGULAR_FEATURE_SPEC.md",
+      "upstreamPath": "setups/angular/templates/ANGULAR_FEATURE_SPEC.md"
+    },
+    {
+      "path": "templates/ANGULAR_PR_REVIEW.md",
+      "upstreamPath": "setups/angular/templates/ANGULAR_PR_REVIEW.md"
+    },
+    {
+      "path": "templates/ANGULAR_RELEASE_CHECKLIST.md",
+      "upstreamPath": "setups/angular/templates/ANGULAR_RELEASE_CHECKLIST.md"
+    }
+  ],
+  "adaptationPolicy": "Project CLAUDE.md and ADRs define the selected architecture. Copies are tailored, not automatically synced. Review upstream diffs before updating.",
+  "notInstalled": [
+    "Blazor",
+    "MAUI",
+    "Ionic",
+    "Capacitor",
+    "global settings",
+    "auto-approval permissions",
+    "hooks",
+    "runtime API keys"
+  ],
+  "installedCounts": {
+    "skills": 12,
+    "agents": 6,
+    "rules": 8
+  }
+}

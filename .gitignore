@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.angular/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.pyc
+.venv/
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/worktrees/
+.claude/projects/
